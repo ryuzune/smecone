@@ -1,2 +1,2 @@
 # smecone
-This is a rapository about my school app
+This is a repository about my school app
